@@ -17,7 +17,9 @@ cd backend
 
 ```bash
 python -m venv venv
-source venv/bin/activate  # Для Windows: venv\Scripts\activate
+```
+```bash
+venv\Scripts\activate
 ```
 
 3. Установи зависимости:
